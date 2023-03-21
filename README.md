@@ -10,4 +10,6 @@ Enrichi par ces 9 semaines intensives, je cherche désormais à perfectionner me
 
 ⚡️ Technologies & skills
 
-html5 css3 javascript bootstrap postgresql ruby rails figma git heroku
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;">
+javascript bootstrap postgresql ruby rails figma git heroku
