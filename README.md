@@ -1,7 +1,5 @@
 Bonjour, je suis Jean Lafore a.k.a JaguarRocka
 
-Présentation 👋
-
 Je suis dévellopeur full stack junior 👨🏻‍💻
 
 Après quelques années passées dans la communication institutionnelle, j'ai décidé de me reconvertir dans le dévellopement web. 
